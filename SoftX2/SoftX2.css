@@ -14,12 +14,12 @@
   --saturation: 0%;
   --lightness: 10%;
   --transition: 0.15s ease;
-  /*--chat-glow-intensity: var(--glow-intensity);*/
-  --channel-glow-intensity: var(100);
+  --channel-glow-intensity: var(--glow-intensity);
   --channel-glow-intensity: var(--glow-intensity);
   --members-glow-intensity: var(--glow-intensity);
   --input-glow-intensity: var(--glow-intensity);
-  --server-glow-intensity: var(--glow-intensity);
+  /*--server-glow-intensity: var(--glow-intensity);*/
+  --server-glow-intensity: var(100);
   --talking-bar: rgb(var(--accent));
   --talking-glow: rgb(var(--accent));
   --blur: 10px;
