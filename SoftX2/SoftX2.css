@@ -47,9 +47,9 @@
   --channel-height: 40px;
   --member-height: 54px;
   --dm-height: 56px;
- /* --scrollbar-background: rgb(255 255 255 / 0.05);
-  --scrollbar-background-hover: rgb(255 255 255 / 0.1);
-  --scrollbar-background-active: rgb(255 255 255 / 0.15);*/
+  --scrollbar-background: rgb(255 255 255 / 0.5);
+  --scrollbar-background-hover: rgb(255 255 255 / 0.8);
+  --scrollbar-background-active: rgb(255 255 255 / 1);
   --input-background: rgb(18 18 18 / 0.7);
   --input-border: rgb(255 255 255 / 0.05);
   --discord-red: 359 calc(var(--saturation-factor, 1) * 82.6%) 59.4%;
@@ -64,7 +64,7 @@
   --channels-default: #aaa;
   --background-modifier-hover: rgb(255 255 255 / 0.05);
   --background-modifier-active: rgb(255 255 255 / 0.08);
-  /*--brand-experiment: rgb(var(--accent), 0.35);
+  --brand-experiment: rgb(var(--accent), 0.35);
   --brand-experiment-560: rgb(var(--accent), 0.55);
   --brand-experiment-600: rgb(var(--accent), 0.4);*/
 }
