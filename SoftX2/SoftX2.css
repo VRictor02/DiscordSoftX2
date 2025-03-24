@@ -2363,6 +2363,7 @@ body .container_a8e786,
   border-radius: 6px;
   box-shadow: var(--shadow-lg);
 }
+/*---------------------------------------------------------------------------------------
 #app-mount .nav__08434 {
   position: absolute;
   padding: 0;
@@ -2436,7 +2437,7 @@ body .container_a8e786,
 #app-mount #sticker-picker-tab-panel .wrapper__4e6ce {
   left: -1px;
   top: 63px;
-}
+}----------------------------------------------------------------------------------------------------*/
 #app-mount .contentWrapper__08434 .wrapper__4e6ce {
   top: 64px;
   border-top: 1px solid var(--border);
