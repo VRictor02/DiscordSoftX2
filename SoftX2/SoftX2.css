@@ -15,7 +15,6 @@
   --lightness: 10%;
   --transition: 0.15s ease;
   --channel-glow-intensity: var(--glow-intensity);
-  --channel-glow-intensity: var(--glow-intensity);
   --members-glow-intensity: var(--glow-intensity);
   --input-glow-intensity: var(--glow-intensity);
   /*--server-glow-intensity: var(--glow-intensity);*/
