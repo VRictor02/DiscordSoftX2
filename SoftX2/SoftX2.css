@@ -1380,7 +1380,7 @@ body .container_a8e786,
   background: rgba(255, 255, 255, 0.03);
 }
 
-#app-mount .form_f75fb0::before {
+/*-----------------------------------------------------------------------------------------------------------#app-mount .form_f75fb0::before {
   content: none;
 }
 #app-mount .form_f75fb0 .button_e6e74f {
@@ -1422,6 +1422,7 @@ body .container_a8e786,
   background: rgb(var(--accent)) !important;
 }
 #app-mount .form_f75fb0 .emojiButton__04eed {
+
   padding: 0 4px;
   max-height: 54px;
 }
@@ -1456,7 +1457,7 @@ body .container_a8e786,
 }
 #app-mount .form_f75fb0 .stickerButton__74017:hover svg {
   background: var(--interactive-normal);
-}
+}-------------------------------------------------------------------------------------------------*/
 #app-mount .channelTextArea_f75fb0 {
   background: var(--input-background);
   border: 2px solid transparent;
