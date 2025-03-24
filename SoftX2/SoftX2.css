@@ -259,7 +259,6 @@ html.theme-light .container__37e49 {
 #app-mount .threadSidebarOpen_f75fb0 .container__9293f {
   border-right: 1px solid var(--border);
 }
-/*--------------------------------------------------------------------------------------------------
 #app-mount .titleBar__421ed {
   height: 20px;
   -webkit-app-region: drag;
@@ -269,6 +268,7 @@ html.theme-light .container__37e49 {
 #app-mount .notice__36c3e {
   border-radius: 0;
 }
+/*--------------------------------------------------------------------------------------------------
 #app-mount .closeButton__6e2b9 {
   left: 15px;
 }
