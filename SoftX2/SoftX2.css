@@ -259,6 +259,7 @@ html.theme-light .container__37e49 {
 #app-mount .threadSidebarOpen_f75fb0 .container__9293f {
   border-right: 1px solid var(--border);
 }
+/*--------------------------------------------------------------------------------------------------
 #app-mount .titleBar__421ed {
   height: 20px;
   -webkit-app-region: drag;
@@ -279,7 +280,7 @@ html.theme-light .container__37e49 {
 .toolbar__9293f {
   margin-right: 0px;
 }
-
+------------------------------------------------------------------------------------------------------*/
 .theme-dark .themed__9293f {
   background: var(--bg-secondary);
   height: 74px;
